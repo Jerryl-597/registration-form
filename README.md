@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Jerryl-597/Huddle-Landing-Page)
-- Live Site URL: (https://huddlelandingdesign.netlify.app)
+- Solution URL: (https://github.com/Jerryl-597/registration-form)
+- Live Site URL: (https://registrationformz.netlify.app)
 
 ## My process
 
